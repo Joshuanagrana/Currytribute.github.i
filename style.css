@@ -51,7 +51,7 @@ nav ul li a:hover {
 #banner{
     height: 400px;
     max-width: 900px;
-    background: url("../curry.png");
+    background: url("curry.png");
     background-position: center; 
     background-size: cover;
     border-style: solid;
